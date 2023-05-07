@@ -1,6 +1,7 @@
 import random
 
 user_points = 0
+
 computer_points = 0
 
 options = ['r', 'p', 't']
